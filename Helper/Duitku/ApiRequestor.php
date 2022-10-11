@@ -1,4 +1,5 @@
 <?php
+namespace Duitku\Ovo\Helper\Duitku;
 
 class Duitku_Ovo_ApiRequestor {
 

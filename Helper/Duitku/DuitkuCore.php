@@ -1,5 +1,7 @@
 <?php
-include_once('ApiRequestor.php');
+namespace Duitku\Ovo\Helper\Duitku;
+// include_once('ApiRequestor.php');
+use Duitku\Ovo\Helper\Duitku\Duitku_Ovo_ApiRequestor;
 class Duitku_Ovo_Core {
 
   public static function getRedirectionUrl($baseUrl, $params)
